@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hallo, Ich bin Rohan Babbar 👋
 
-<!--
-**rohanbabbar04/rohanbabbar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Little bit about me 🙂
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏫 Final Year Undergraguate pursuing BTech in Information Technology. 
+- 🏢 Successfully completed **Google Summer of Code 2023** with **Pylops, NumFocus**.
+- 💻 Developing [Pylops-MPI](https://github.com/PyLops/pylops-mpi).
+- 💼 Backend Developer at **Medvolt.AI**. Ex-Intern at Canpe Solutions, Bengaluru.
+- ⚽ Amo al FC Barcelona. 
+
+Connect with me
+
+<a href="https://linkedin.com/in/rohan-babbar-2020" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
