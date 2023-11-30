@@ -3,7 +3,7 @@
 
 Little bit about me 🙂
 
-- 🏫 Final Year Undergraguate pursuing BTech in Information Technology. 
+- 🏫 Final Year Undergraduate pursuing BTech in Information Technology. 
 - 🏢 Successfully completed **Google Summer of Code 2023** with **Pylops, NumFocus**.
 - 💻 Developing [Pylops-MPI](https://github.com/PyLops/pylops-mpi).
 - 💼 Backend Developer at **Medvolt.AI**. Ex-Intern at Canpe Solutions, Bengaluru.
