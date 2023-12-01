@@ -1,4 +1,4 @@
-### Hallo, Ich bin Rohan Babbar 👋
+### Hallo, I am Rohan Babbar 👋
 
 
 Little bit about me 🙂
