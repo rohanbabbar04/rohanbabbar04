@@ -7,7 +7,6 @@ Little bit about me 🙂
 - 🏢 Successfully completed **Google Summer of Code 2023** with **Pylops, NumFocus**.
 - 💻 Developing [Pylops-MPI](https://github.com/PyLops/pylops-mpi).
 - 💼 Backend Developer at **Medvolt.AI**. Ex-Intern at Canpe Solutions, Bengaluru.
-- ⚽ Amo al FC Barcelona. 
 
 Connect with me
 
